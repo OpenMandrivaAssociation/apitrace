@@ -11,7 +11,7 @@ Release:        3%{?commit:.git%{shortcommit}}%{?dist}
 Summary:        Tools for tracing OpenGL
 
 License:        MIT
-URL:            http://apitrace.github.io/
+URL:            https://apitrace.github.io/
 %if 0%{?commit:1}
 # git clone --recursive https://github.com/apitrace/apitrace.git
 # cd apitrace
